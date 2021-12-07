@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="auth_email">Email</string>
+    <string name="auth_name">Name</string>
+    <string name="auth_password">Password</string>
+    <string name="auth_confirmpassword">Confirm Password</string>
+    <string name="auth_singUp">Sing Up</string>
+
+    <string name="success_message">Success</string>
+</resources>
